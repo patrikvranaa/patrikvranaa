@@ -10,7 +10,8 @@ except ImportError:
     import Tkinter as tk
     import ttk
 
-#=========test GIT========
+#===sfsdfsdf======test GIT========
+
 #=========delkarace funkci=========
 def getter_data():
      #Vypíše datum
